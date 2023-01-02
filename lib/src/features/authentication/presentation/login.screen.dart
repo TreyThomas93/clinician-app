@@ -9,6 +9,7 @@ import '../../../utils/routes.dart';
 import '../../../utils/styles/colors.dart';
 import '../../shared/presentation/widgets/load.dialog.dart';
 import '../../shared/presentation/widgets/snackbar.dart';
+import '../../shared/presentation/widgets/support.dialog.dart';
 import 'password.section.dart';
 
 class LoginScreen extends ConsumerStatefulWidget {
@@ -110,7 +111,8 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
                               fontStyle: FontStyle.italic),
                           recognizer: TapGestureRecognizer()
                             ..onTap = () {
-                              // TODO: show dialog with contact options.
+                              print("woeo");
+                              supportDialog(context);
                             },
                         ),
                       ])),
