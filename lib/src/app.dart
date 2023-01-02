@@ -16,7 +16,7 @@ class ClinicianApp extends StatelessWidget {
     SystemChrome.setPreferredOrientations(orientations);
     return MaterialApp(
       title: 'Clinician App',
-      initialRoute: NavRouter.roster.path,
+      initialRoute: NavRouter.login.path,
       onGenerateRoute: generatedRoutes,
       debugShowCheckedModeBanner: kDebugMode,
       theme: AppThemes.primaryTheme,

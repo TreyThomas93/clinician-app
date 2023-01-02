@@ -7,11 +7,17 @@ var generatedRoutes = (RouteSettings settings) {
   final String? routeName = settings.name;
 
   if (NavRouter.login.path == routeName) {
-    return MaterialPageRoute(builder: (_) => const LoginScreen());
+    return MaterialPageRoute(
+      builder: (_) => const LoginScreen(),
+      settings: settings,
+    );
   }
 
   if (NavRouter.roster.path == routeName) {
-    return MaterialPageRoute(builder: (_) => const RosterScreen());
+    return MaterialPageRoute(
+      builder: (_) => const RosterScreen(),
+      settings: settings,
+    );
   }
   return null;
 };

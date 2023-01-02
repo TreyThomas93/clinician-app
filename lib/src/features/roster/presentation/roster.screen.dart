@@ -9,14 +9,14 @@ import '../domain/patient.model.dart';
 import 'controllers/roster.controller.dart';
 import 'patient.details.dialog.dart';
 
-class RosterScreen extends StatefulWidget {
+class RosterScreen extends ConsumerStatefulWidget {
   const RosterScreen({super.key});
 
   @override
-  State<RosterScreen> createState() => _RosterScreenState();
+  ConsumerState<RosterScreen> createState() => _RosterScreenState();
 }
 
-class _RosterScreenState extends State<RosterScreen> {
+class _RosterScreenState extends ConsumerState<RosterScreen> {
   final _scrollController = ScrollController();
 
   @override

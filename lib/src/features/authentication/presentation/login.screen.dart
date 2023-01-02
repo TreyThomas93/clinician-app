@@ -21,6 +21,18 @@ class LoginScreen extends ConsumerStatefulWidget {
 class _LoginScreenState extends ConsumerState<LoginScreen> {
   final _formKey = GlobalKey<FormState>();
 
+  @override
+  void initState() {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      final args = ModalRoute.of(context)!.settings.arguments as Map?;
+
+      if (args != null && args.containsKey('logout')) {
+        showSnackbar('You have been logged out.');
+      }
+    });
+    super.initState();
+  }
+
   void _submitForm() {
     if (_formKey.currentState!.validate()) {
       ref.read(loginControllerProvider.notifier).login();
