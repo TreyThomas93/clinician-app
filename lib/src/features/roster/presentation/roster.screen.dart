@@ -1,0 +1,87 @@
+import 'package:clinician_app/src/features/shared/presentation/widgets/custom.drawer.dart';
+import 'package:clinician_app/src/utils/styles/textstyles.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:grouped_list/grouped_list.dart';
+
+import '../../../utils/styles/colors.dart';
+import '../domain/patient.model.dart';
+import 'controllers/roster.controller.dart';
+import 'patient.details.dialog.dart';
+
+class RosterScreen extends StatefulWidget {
+  const RosterScreen({super.key});
+
+  @override
+  State<RosterScreen> createState() => _RosterScreenState();
+}
+
+class _RosterScreenState extends State<RosterScreen> {
+  final _scrollController = ScrollController();
+
+  @override
+  void dispose() {
+    _scrollController.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return SafeArea(
+      child: WillPopScope(
+        onWillPop: () async => false,
+        child: Scaffold(
+            appBar: AppBar(
+              title: const Text('Roster'),
+              centerTitle: true,
+            ),
+            body: Consumer(builder: (context, ref, child) {
+              final patients = ref.watch(rosterFutureProvider);
+
+              return RefreshIndicator(
+                onRefresh: () async => ref
+                    .read(futureTriggerProvider.notifier)
+                    .update((state) => !state),
+                child: patients.when(
+                    data: (patients) => Scrollbar(
+                          controller: _scrollController,
+                          child: GroupedListView<Patient, String>(
+                            controller: _scrollController,
+                            physics: const AlwaysScrollableScrollPhysics(),
+                            elements: patients,
+                            groupBy: (patient) => patient.lastName[0],
+                            groupSeparatorBuilder: (String groupByValue) =>
+                                Container(
+                                    color: AppColors.gold,
+                                    padding: const EdgeInsets.all(8),
+                                    child: Text(groupByValue,
+                                        style: AppTextStyles.b1.copyWith(
+                                            color: AppColors.offWhite,
+                                            fontWeight: FontWeight.bold))),
+                            itemBuilder: (_, patient) => ListTile(
+                                title:
+                                    Text(patient.name, style: AppTextStyles.b1),
+                                subtitle: Text(patient.dateOfBirth,
+                                    style: AppTextStyles.b3),
+                                trailing: const Icon(Icons.arrow_forward_ios,
+                                    size: 16),
+                                onTap: () =>
+                                    patientDetailsDialog(context, patient)),
+                            itemComparator: (p1, p2) =>
+                                p1.name.compareTo(p2.name),
+                            order: GroupedListOrder.ASC,
+                          ),
+                        ),
+                    loading: () => const Center(
+                        child:
+                            CircularProgressIndicator(color: AppColors.gold)),
+                    error: (error, stack) => const Center(
+                        child:
+                            Text('Something went wrong. Please try again.'))),
+              );
+            }),
+            drawer: const CustomDrawer()),
+      ),
+    );
+  }
+}
