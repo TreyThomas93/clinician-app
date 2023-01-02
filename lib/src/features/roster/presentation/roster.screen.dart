@@ -70,6 +70,7 @@ class _RosterScreenState extends ConsumerState<RosterScreen> {
                             itemComparator: (p1, p2) =>
                                 p1.name.compareTo(p2.name),
                             order: GroupedListOrder.ASC,
+                            useStickyGroupSeparators: true,
                           ),
                         ),
                     loading: () => const Center(
