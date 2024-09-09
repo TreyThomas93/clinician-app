@@ -1,0 +1,652 @@
+[
+  {
+    "allergies": ["None"],
+    "clinician_id": 600,
+    "date_of_birth": "01/15/1935",
+    "image_url": "https://i.pinimg.com/originals/2d/d1/00/2dd100278afe0b20611b30558f3ff812.jpg",
+    "medical_history": ["Angina"],
+    "medications": ["Nitro"],
+    "mrn": "677493838",
+    "name": "Gary Crawford",
+    "notes": [
+      "Pt is a 88 yom with hx of Angina. Pt is in our care per family request due to worsening Angina. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 3 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Atracurium", "Wasps"],
+    "clinician_id": 600,
+    "date_of_birth": "10/14/1955",
+    "image_url": "https://www.purdue.edu/uns/images/2019/hass-minnesota.jpg",
+    "medical_history": ["Angina", "Atrial Fibrillation"],
+    "medications": ["Aspirin", "Xarelto"],
+    "mrn": "467905089",
+    "name": "Michelle Garcia",
+    "notes": [
+      "Pt is a 67 yof with hx of Angina,Atrial Fibrillation. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 2 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Vecuronium", "Amoxicillin"],
+    "clinician_id": 600,
+    "date_of_birth": "12/02/1949",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Atrial Fibrillation"],
+    "medications": ["Coumadin"],
+    "mrn": "870968671",
+    "name": "Robert Sanders",
+    "notes": [
+      "Pt is a 73 yom with hx of Atrial Fibrillation. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 1 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Atracurium"],
+    "clinician_id": 600,
+    "date_of_birth": "06/06/1957",
+    "image_url": "https://static01.nyt.com/images/2021/12/26/science/26sci-span-retired-women1/26sci-span-retired-women1-mobileMasterAt3x.jpg",
+    "medical_history": ["Angina"],
+    "medications": ["Aspirin"],
+    "mrn": "831059822",
+    "name": "Gladys Woock",
+    "notes": [
+      "Pt is a 65 yof with hx of Angina. Pt is in our care per family request due to worsening Angina. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 3 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Shell Fish"],
+    "clinician_id": 600,
+    "date_of_birth": "11/09/1935",
+    "image_url": "https://i.pinimg.com/originals/2d/d1/00/2dd100278afe0b20611b30558f3ff812.jpg",
+    "medical_history": ["Atrial Fibrillation"],
+    "medications": ["Coumadin"],
+    "mrn": "668744109",
+    "name": "Lloyd Evans",
+    "notes": [
+      "Pt is a 87 yom with hx of Atrial Fibrillation. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 1 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["None"],
+    "clinician_id": 600,
+    "date_of_birth": "04/15/1937",
+    "image_url": "https://www.purdue.edu/uns/images/2019/hass-minnesota.jpg",
+    "medical_history": ["Diabetes", "Atrial Fibrillation"],
+    "medications": ["Novolog", "Xarelto"],
+    "mrn": "184647456",
+    "name": "Marie Seals",
+    "notes": [
+      "Pt is a 85 yof with hx of Diabetes,Atrial Fibrillation. Pt is in our care per family request due to worsening Diabetes. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 0 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Amoxicillin"],
+    "clinician_id": 600,
+    "date_of_birth": "08/11/1962",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Diabetes", "Atrial Fibrillation"],
+    "medications": ["Metformin", "Xarelto"],
+    "mrn": "427064361",
+    "name": "Thomas Pugh",
+    "notes": [
+      "Pt is a 60 yom with hx of Diabetes,Atrial Fibrillation. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 3 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Atracurium"],
+    "clinician_id": 600,
+    "date_of_birth": "03/24/1951",
+    "image_url": "https://www.purdue.edu/uns/images/2019/hass-minnesota.jpg",
+    "medical_history": ["Angina"],
+    "medications": ["Aspirin"],
+    "mrn": "829174711",
+    "name": "Barbara Bowen",
+    "notes": [
+      "Pt is a 71 yof with hx of Angina. Pt is in our care per family request due to worsening Angina. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 4 with a GCS of 15. "
+    ]
+  },
+  {
+    "allergies": ["Bees"],
+    "clinician_id": 600,
+    "date_of_birth": "03/11/1958",
+    "image_url": "https://i.pinimg.com/originals/2d/d1/00/2dd100278afe0b20611b30558f3ff812.jpg",
+    "medical_history": ["Atrial Fibrillation"],
+    "medications": ["Warfarin"],
+    "mrn": "828666652",
+    "name": "Robert Holt",
+    "notes": [
+      "Pt is a 64 yom with hx of Atrial Fibrillation. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 4 with a GCS of 15. "
+    ]
+  },
+  {
+    "allergies": ["None"],
+    "clinician_id": 600,
+    "date_of_birth": "12/07/1946",
+    "image_url": "https://www.purdue.edu/uns/images/2019/hass-minnesota.jpg",
+    "medical_history": ["Atrial Fibrillation"],
+    "medications": ["Xarelto"],
+    "mrn": "148949542",
+    "name": "Joanne Sether",
+    "notes": [
+      "Pt is a 76 yof with hx of Atrial Fibrillation. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 1 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Vecuronium"],
+    "clinician_id": 600,
+    "date_of_birth": "01/10/1946",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Hyperlipidemia", "Angina"],
+    "medications": ["Atorvastatin", "Nitro"],
+    "mrn": "486185135",
+    "name": "John Fetterman",
+    "notes": [
+      "Pt is a 77 yom with hx of Hyperlipidemia,Angina. Pt is in our care per family request due to worsening Hyperlipidemia. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 4 with a GCS of 15. "
+    ]
+  },
+  {
+    "allergies": ["Atracurium", "Penicillin"],
+    "clinician_id": 600,
+    "date_of_birth": "03/06/1961",
+    "image_url": "https://static01.nyt.com/images/2021/12/26/science/26sci-span-retired-women1/26sci-span-retired-women1-mobileMasterAt3x.jpg",
+    "medical_history": ["Angina", "Hyperlipidemia"],
+    "medications": ["Nitro", "Atorvastatin"],
+    "mrn": "365696707",
+    "name": "Jamie Crouch",
+    "notes": [
+      "Pt is a 61 yof with hx of Angina,Hyperlipidemia. Pt is in our care per family request due to worsening Hyperlipidemia. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 2 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Peanuts"],
+    "clinician_id": 600,
+    "date_of_birth": "04/05/1946",
+    "image_url": "https://i.pinimg.com/originals/2d/d1/00/2dd100278afe0b20611b30558f3ff812.jpg",
+    "medical_history": ["Atrial Fibrillation", "Dementia"],
+    "medications": ["Coumadin", "Aricept"],
+    "mrn": "770710844",
+    "name": "Victor Buban",
+    "notes": [
+      "Pt is a 76 yom with hx of Atrial Fibrillation,Dementia. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 4 with a GCS of 15. "
+    ]
+  },
+  {
+    "allergies": ["Wasps"],
+    "clinician_id": 600,
+    "date_of_birth": "07/10/1952",
+    "image_url": "https://www.purdue.edu/uns/images/2019/hass-minnesota.jpg",
+    "medical_history": ["Dementia", "Atrial Fibrillation"],
+    "medications": ["Exelon", "Xarelto"],
+    "mrn": "750502264",
+    "name": "Victoria Kramer",
+    "notes": [
+      "Pt is a 70 yof with hx of Dementia,Atrial Fibrillation. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 3 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Naproxen", "Penicillin", "Peanuts"],
+    "clinician_id": 600,
+    "date_of_birth": "06/06/1956",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Dementia", "Atrial Fibrillation"],
+    "medications": ["Aricept", "Coumadin"],
+    "mrn": "113874820",
+    "name": "David Takemura",
+    "notes": [
+      "Pt is a 66 yom with hx of Dementia,Atrial Fibrillation. Pt is in our care per family request due to worsening Dementia. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 3 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["None"],
+    "clinician_id": 600,
+    "date_of_birth": "01/26/1961",
+    "image_url": "https://static01.nyt.com/images/2021/12/26/science/26sci-span-retired-women1/26sci-span-retired-women1-mobileMasterAt3x.jpg",
+    "medical_history": ["Atrial Fibrillation", "Diabetes"],
+    "medications": ["Warfarin", "Metformin"],
+    "mrn": "944721433",
+    "name": "Jessica Arch",
+    "notes": [
+      "Pt is a 61 yof with hx of Atrial Fibrillation,Diabetes. Pt is in our care per family request due to worsening Diabetes. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 4 with a GCS of 15. "
+    ]
+  },
+  {
+    "allergies": ["None"],
+    "clinician_id": 600,
+    "date_of_birth": "02/10/1942",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Angina", "Atrial Fibrillation"],
+    "medications": ["Aspirin", "Warfarin"],
+    "mrn": "123393926",
+    "name": "John Thurn",
+    "notes": [
+      "Pt is a 80 yom with hx of Angina,Atrial Fibrillation. Pt is in our care per family request due to worsening Angina. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 2 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Bees"],
+    "clinician_id": 600,
+    "date_of_birth": "03/02/1929",
+    "image_url": "https://static01.nyt.com/images/2021/12/26/science/26sci-span-retired-women1/26sci-span-retired-women1-mobileMasterAt3x.jpg",
+    "medical_history": ["Atrial Fibrillation"],
+    "medications": ["Warfarin"],
+    "mrn": "885505268",
+    "name": "April Dunn",
+    "notes": [
+      "Pt is a 93 yof with hx of Atrial Fibrillation. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 1 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Amoxicillin"],
+    "clinician_id": 600,
+    "date_of_birth": "11/08/1925",
+    "image_url": "https://i.pinimg.com/originals/2d/d1/00/2dd100278afe0b20611b30558f3ff812.jpg",
+    "medical_history": ["Atrial Fibrillation", "Dementia"],
+    "medications": ["Coumadin", "Aricept"],
+    "mrn": "392808504",
+    "name": "Harold Payne",
+    "notes": [
+      "Pt is a 97 yom with hx of Atrial Fibrillation,Dementia. Pt is in our care per family request due to worsening Dementia. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 3 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Vecuronium", "Wasps", "Naproxen"],
+    "clinician_id": 600,
+    "date_of_birth": "02/24/1963",
+    "image_url": "https://static01.nyt.com/images/2021/12/26/science/26sci-span-retired-women1/26sci-span-retired-women1-mobileMasterAt3x.jpg",
+    "medical_history": ["Hyperlipidemia"],
+    "medications": ["Atorvastatin"],
+    "mrn": "624705938",
+    "name": "Rachel Mata",
+    "notes": [
+      "Pt is a 59 yof with hx of Hyperlipidemia. Pt is in our care per family request due to worsening Hyperlipidemia. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 4 with a GCS of 15. "
+    ]
+  },
+  {
+    "allergies": ["Penicillin", "Atracurium", "Vecuronium"],
+    "clinician_id": 600,
+    "date_of_birth": "12/09/1954",
+    "image_url": "https://i.pinimg.com/originals/2d/d1/00/2dd100278afe0b20611b30558f3ff812.jpg",
+    "medical_history": ["Angina"],
+    "medications": ["Aspirin"],
+    "mrn": "185946463",
+    "name": "Timothy Hayes",
+    "notes": [
+      "Pt is a 68 yom with hx of Angina. Pt is in our care per family request due to worsening Angina. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 4 with a GCS of 15. "
+    ]
+  },
+  {
+    "allergies": ["Bees", "Atracurium"],
+    "clinician_id": 600,
+    "date_of_birth": "10/22/1943",
+    "image_url": "https://www.purdue.edu/uns/images/2019/hass-minnesota.jpg",
+    "medical_history": ["Angina", "Hyperlipidemia"],
+    "medications": ["Aspirin", "Simvastatin"],
+    "mrn": "545662763",
+    "name": "Velma Wallace",
+    "notes": [
+      "Pt is a 79 yof with hx of Angina,Hyperlipidemia. Pt is in our care per family request due to worsening Angina. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 0 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Atracurium"],
+    "clinician_id": 600,
+    "date_of_birth": "07/03/1924",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Angina"],
+    "medications": ["Nitro"],
+    "mrn": "275498735",
+    "name": "Ricardo Damron",
+    "notes": [
+      "Pt is a 98 yom with hx of Angina. Pt is in our care per family request due to worsening Angina. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 3 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Shell Fish"],
+    "clinician_id": 600,
+    "date_of_birth": "08/16/1927",
+    "image_url": "https://www.purdue.edu/uns/images/2019/hass-minnesota.jpg",
+    "medical_history": ["Atrial Fibrillation", "Diabetes"],
+    "medications": ["Coumadin", "Novolog"],
+    "mrn": "842811185",
+    "name": "Lois Johnson",
+    "notes": [
+      "Pt is a 95 yof with hx of Atrial Fibrillation,Diabetes. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 2 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Naproxen"],
+    "clinician_id": 600,
+    "date_of_birth": "03/19/1951",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Diabetes", "Atrial Fibrillation"],
+    "medications": ["Insulin", "Warfarin"],
+    "mrn": "644683773",
+    "name": "Dwayne Greenhouse",
+    "notes": [
+      "Pt is a 71 yom with hx of Diabetes,Atrial Fibrillation. Pt is in our care per family request due to worsening Diabetes. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 2 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Naproxen"],
+    "clinician_id": 600,
+    "date_of_birth": "01/06/1925",
+    "image_url": "https://static01.nyt.com/images/2021/12/26/science/26sci-span-retired-women1/26sci-span-retired-women1-mobileMasterAt3x.jpg",
+    "medical_history": ["Angina"],
+    "medications": ["Nitro"],
+    "mrn": "945336699",
+    "name": "Michelle Sanders",
+    "notes": [
+      "Pt is a 98 yof with hx of Angina. Pt is in our care per family request due to worsening Angina. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 2 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Peanuts"],
+    "clinician_id": 600,
+    "date_of_birth": "03/01/1954",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Hyperlipidemia"],
+    "medications": ["Atorvastatin"],
+    "mrn": "909896042",
+    "name": "Walter Mcclure",
+    "notes": [
+      "Pt is a 68 yom with hx of Hyperlipidemia. Pt is in our care per family request due to worsening Hyperlipidemia. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 1 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Peanuts"],
+    "clinician_id": 600,
+    "date_of_birth": "05/05/1945",
+    "image_url": "https://static01.nyt.com/images/2021/12/26/science/26sci-span-retired-women1/26sci-span-retired-women1-mobileMasterAt3x.jpg",
+    "medical_history": ["Diabetes"],
+    "medications": ["Metformin"],
+    "mrn": "500511881",
+    "name": "Maria Beach",
+    "notes": [
+      "Pt is a 77 yof with hx of Diabetes. Pt is in our care per family request due to worsening Diabetes. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 1 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Shell Fish", "Vecuronium"],
+    "clinician_id": 600,
+    "date_of_birth": "10/26/1950",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Hyperlipidemia", "Diabetes"],
+    "medications": ["Atorvastatin", "Insulin"],
+    "mrn": "771397270",
+    "name": "Timothy Edminster",
+    "notes": [
+      "Pt is a 72 yom with hx of Hyperlipidemia,Diabetes. Pt is in our care per family request due to worsening Diabetes. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 3 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Vecuronium"],
+    "clinician_id": 600,
+    "date_of_birth": "04/24/1940",
+    "image_url": "https://www.purdue.edu/uns/images/2019/hass-minnesota.jpg",
+    "medical_history": ["Angina", "Diabetes"],
+    "medications": ["Nitro", "Novolog"],
+    "mrn": "737133197",
+    "name": "Gail Henry",
+    "notes": [
+      "Pt is a 82 yof with hx of Angina,Diabetes. Pt is in our care per family request due to worsening Diabetes. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 4 with a GCS of 15. "
+    ]
+  },
+  {
+    "allergies": ["Naproxen", "Vecuronium"],
+    "clinician_id": 600,
+    "date_of_birth": "11/07/1939",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Atrial Fibrillation", "Angina"],
+    "medications": ["Xarelto", "Aspirin"],
+    "mrn": "556207481",
+    "name": "Jonathan Aburto",
+    "notes": [
+      "Pt is a 83 yom with hx of Atrial Fibrillation,Angina. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 4 with a GCS of 15. "
+    ]
+  },
+  {
+    "allergies": ["None"],
+    "clinician_id": 600,
+    "date_of_birth": "02/24/1942",
+    "image_url": "https://www.purdue.edu/uns/images/2019/hass-minnesota.jpg",
+    "medical_history": ["Diabetes"],
+    "medications": ["Insulin"],
+    "mrn": "973035794",
+    "name": "Marcia Kryder",
+    "notes": [
+      "Pt is a 80 yof with hx of Diabetes. Pt is in our care per family request due to worsening Diabetes. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 3 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Bees"],
+    "clinician_id": 600,
+    "date_of_birth": "10/26/1931",
+    "image_url": "https://i.pinimg.com/originals/2d/d1/00/2dd100278afe0b20611b30558f3ff812.jpg",
+    "medical_history": ["Atrial Fibrillation"],
+    "medications": ["Coumadin"],
+    "mrn": "433009110",
+    "name": "Stephen Regan",
+    "notes": [
+      "Pt is a 91 yom with hx of Atrial Fibrillation. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 2 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Vecuronium"],
+    "clinician_id": 600,
+    "date_of_birth": "06/23/1920",
+    "image_url": "https://static01.nyt.com/images/2021/12/26/science/26sci-span-retired-women1/26sci-span-retired-women1-mobileMasterAt3x.jpg",
+    "medical_history": ["Diabetes", "Dementia"],
+    "medications": ["Insulin", "Razadyne"],
+    "mrn": "924851161",
+    "name": "Sherry Walters",
+    "notes": [
+      "Pt is a 102 yof with hx of Diabetes,Dementia. Pt is in our care per family request due to worsening Dementia. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 3 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Naproxen", "Vecuronium"],
+    "clinician_id": 600,
+    "date_of_birth": "09/06/1920",
+    "image_url": "https://i.pinimg.com/originals/2d/d1/00/2dd100278afe0b20611b30558f3ff812.jpg",
+    "medical_history": ["Angina", "Hyperlipidemia"],
+    "medications": ["Nitro", "Atorvastatin"],
+    "mrn": "965386930",
+    "name": "Troy Mendoza",
+    "notes": [
+      "Pt is a 102 yom with hx of Angina,Hyperlipidemia. Pt is in our care per family request due to worsening Hyperlipidemia. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 2 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Wasps"],
+    "clinician_id": 600,
+    "date_of_birth": "08/22/1951",
+    "image_url": "https://static01.nyt.com/images/2021/12/26/science/26sci-span-retired-women1/26sci-span-retired-women1-mobileMasterAt3x.jpg",
+    "medical_history": ["Atrial Fibrillation", "Angina"],
+    "medications": ["Coumadin", "Aspirin"],
+    "mrn": "348364958",
+    "name": "Sue Duncan",
+    "notes": [
+      "Pt is a 71 yof with hx of Atrial Fibrillation,Angina. Pt is in our care per family request due to worsening Angina. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 1 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Atracurium", "Naproxen"],
+    "clinician_id": 600,
+    "date_of_birth": "02/10/1932",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Atrial Fibrillation"],
+    "medications": ["Coumadin"],
+    "mrn": "259904182",
+    "name": "Randall Arsenault",
+    "notes": [
+      "Pt is a 90 yom with hx of Atrial Fibrillation. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 1 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Vecuronium", "Atracurium"],
+    "clinician_id": 600,
+    "date_of_birth": "10/21/1951",
+    "image_url": "https://www.purdue.edu/uns/images/2019/hass-minnesota.jpg",
+    "medical_history": ["Hyperlipidemia", "Diabetes"],
+    "medications": ["Atorvastatin", "Novolog"],
+    "mrn": "901704289",
+    "name": "Fredia Smith",
+    "notes": [
+      "Pt is a 71 yof with hx of Hyperlipidemia,Diabetes. Pt is in our care per family request due to worsening Hyperlipidemia. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 2 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Penicillin"],
+    "clinician_id": 600,
+    "date_of_birth": "03/13/1942",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Angina", "Hyperlipidemia"],
+    "medications": ["Aspirin", "Atorvastatin"],
+    "mrn": "147093396",
+    "name": "Eric Pierce",
+    "notes": [
+      "Pt is a 80 yom with hx of Angina,Hyperlipidemia. Pt is in our care per family request due to worsening Angina. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 4 with a GCS of 15. "
+    ]
+  },
+  {
+    "allergies": ["Naproxen", "Penicillin", "Amoxicillin"],
+    "clinician_id": 600,
+    "date_of_birth": "04/18/1948",
+    "image_url": "https://www.purdue.edu/uns/images/2019/hass-minnesota.jpg",
+    "medical_history": ["Atrial Fibrillation"],
+    "medications": ["Warfarin"],
+    "mrn": "790598056",
+    "name": "Jamie Aguirre",
+    "notes": [
+      "Pt is a 74 yof with hx of Atrial Fibrillation. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 3 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Peanuts"],
+    "clinician_id": 600,
+    "date_of_birth": "08/09/1951",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Diabetes", "Hyperlipidemia"],
+    "medications": ["Novolog", "Atorvastatin"],
+    "mrn": "377089106",
+    "name": "Lonnie Eplin",
+    "notes": [
+      "Pt is a 71 yom with hx of Diabetes,Hyperlipidemia. Pt is in our care per family request due to worsening Diabetes. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 4 with a GCS of 15. "
+    ]
+  },
+  {
+    "allergies": ["Wasps"],
+    "clinician_id": 600,
+    "date_of_birth": "05/19/1958",
+    "image_url": "https://static01.nyt.com/images/2021/12/26/science/26sci-span-retired-women1/26sci-span-retired-women1-mobileMasterAt3x.jpg",
+    "medical_history": ["Atrial Fibrillation"],
+    "medications": ["Coumadin"],
+    "mrn": "666194844",
+    "name": "Bobbie Allen",
+    "notes": [
+      "Pt is a 64 yof with hx of Atrial Fibrillation. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 1 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Peanuts", "Naproxen"],
+    "clinician_id": 600,
+    "date_of_birth": "01/03/1921",
+    "image_url": "https://i.pinimg.com/originals/2d/d1/00/2dd100278afe0b20611b30558f3ff812.jpg",
+    "medical_history": ["Angina", "Diabetes"],
+    "medications": ["Nitro", "Metformin"],
+    "mrn": "101783466",
+    "name": "Lawrence Cooper",
+    "notes": [
+      "Pt is a 102 yom with hx of Angina,Diabetes. Pt is in our care per family request due to worsening Angina. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 4 with a GCS of 15. "
+    ]
+  },
+  {
+    "allergies": ["Wasps"],
+    "clinician_id": 600,
+    "date_of_birth": "01/09/1943",
+    "image_url": "https://www.purdue.edu/uns/images/2019/hass-minnesota.jpg",
+    "medical_history": ["Atrial Fibrillation", "Hyperlipidemia"],
+    "medications": ["Xarelto", "Atorvastatin"],
+    "mrn": "618133322",
+    "name": "Amanda Laing",
+    "notes": [
+      "Pt is a 80 yof with hx of Atrial Fibrillation,Hyperlipidemia. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 0 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Peanuts"],
+    "clinician_id": 600,
+    "date_of_birth": "11/06/1925",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Diabetes"],
+    "medications": ["Insulin"],
+    "mrn": "779311128",
+    "name": "Douglas Aguirre",
+    "notes": [
+      "Pt is a 97 yom with hx of Diabetes. Pt is in our care per family request due to worsening Diabetes. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 0 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["None"],
+    "clinician_id": 600,
+    "date_of_birth": "04/19/1942",
+    "image_url": "https://static01.nyt.com/images/2021/12/26/science/26sci-span-retired-women1/26sci-span-retired-women1-mobileMasterAt3x.jpg",
+    "medical_history": ["Dementia", "Atrial Fibrillation"],
+    "medications": ["Aricept", "Warfarin"],
+    "mrn": "633707129",
+    "name": "May Harrington",
+    "notes": [
+      "Pt is a 80 yof with hx of Dementia,Atrial Fibrillation. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 1 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Naproxen"],
+    "clinician_id": 600,
+    "date_of_birth": "08/03/1923",
+    "image_url": "https://www.digital-photo-secrets.com/images/elderly-man-outside.jpg",
+    "medical_history": ["Atrial Fibrillation"],
+    "medications": ["Warfarin"],
+    "mrn": "833578867",
+    "name": "Phillip Chang",
+    "notes": [
+      "Pt is a 99 yom with hx of Atrial Fibrillation. Pt is in our care per family request due to worsening Atrial Fibrillation. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 3 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Peanuts", "Naproxen"],
+    "clinician_id": 600,
+    "date_of_birth": "12/02/1964",
+    "image_url": "https://www.purdue.edu/uns/images/2019/hass-minnesota.jpg",
+    "medical_history": ["Diabetes"],
+    "medications": ["Metformin"],
+    "mrn": "929351982",
+    "name": "Magan Mccall",
+    "notes": [
+      "Pt is a 58 yof with hx of Diabetes. Pt is in our care per family request due to worsening Diabetes. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 4 with a GCS of 15. "
+    ]
+  },
+  {
+    "allergies": ["Shell Fish", "Atracurium"],
+    "clinician_id": 600,
+    "date_of_birth": "07/01/1956",
+    "image_url": "https://i.pinimg.com/originals/2d/d1/00/2dd100278afe0b20611b30558f3ff812.jpg",
+    "medical_history": ["Dementia"],
+    "medications": ["Aricept"],
+    "mrn": "636211819",
+    "name": "Jamar Epps",
+    "notes": [
+      "Pt is a 66 yom with hx of Dementia. Pt is in our care per family request due to worsening Dementia. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 3 with a GCS of 14. "
+    ]
+  },
+  {
+    "allergies": ["Peanuts", "Bees"],
+    "clinician_id": 600,
+    "date_of_birth": "08/12/1931",
+    "image_url": "https://static01.nyt.com/images/2021/12/26/science/26sci-span-retired-women1/26sci-span-retired-women1-mobileMasterAt3x.jpg",
+    "medical_history": ["Hyperlipidemia"],
+    "medications": ["Simvastatin"],
+    "mrn": "217888183",
+    "name": "Brenda Watts",
+    "notes": [
+      "Pt is a 91 yof with hx of Hyperlipidemia. Pt is in our care per family request due to worsening Hyperlipidemia. Pt is now only ambulatory with assistance and requires a wheelchair most of the time. Pt is currently A&O x 0 with a GCS of 14. "
+    ]
+  }
+]
