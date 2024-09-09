@@ -6,15 +6,18 @@ A demo app that allows a user to log in and view fake patient records.
 
 > dependencies:
 
-- google_fonts: ^3.0.1
-- flutter_riverpod: ^2.0.0
+- flutter:
+- google_fonts: ^6.2.1
+- flutter_riverpod: ^2.5.1
 - grouped_list: ^5.1.2
-- package_info_plus: ^1.4.3+1
+- package_info_plus: ^8.0.2
 
-> versions:
+> dev_dependencies:
 
-- flutter: 3.3.9
-- dart: 2.18.5
+- flutter_tests
+- flutter_lints: ^3.0.0
+- custom_lint: ^0.6.7
+- riverpod_lint: ^2.3.13
 
 ## Getting Started
 
