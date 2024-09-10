@@ -1,21 +1,24 @@
-import 'dart:convert';
-
-import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+
+import '../domain/user_model.dart';
 
 abstract class RemoteRepository {
   factory RemoteRepository() => RemoteRepositoryImpl();
 
-  Future<List<Map<String, dynamic>>> getPatients();
+  Future<User> login(String email, String password);
+  Future<void> logout();
 }
 
 class RemoteRepositoryImpl implements RemoteRepository {
   @override
-  Future<List<Map<String, dynamic>>> getPatients() async {
+  Future<User> login(String email, String password) async {
     await Future.delayed(const Duration(seconds: 2));
-    final String response =
-        await rootBundle.loadString('assets/data/patients.json');
-    return List<Map<String, dynamic>>.from(json.decode(response));
+    return User(name: 'John Doe', email: email);
+  }
+
+  @override
+  Future<void> logout() async {
+    await Future.delayed(const Duration(seconds: 2));
   }
 }
 

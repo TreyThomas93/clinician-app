@@ -3,6 +3,7 @@ import 'dart:developer';
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
+import '../../data/remote.repository.dart';
 import '../../domain/user_model.dart';
 
 final authController =
@@ -11,8 +12,9 @@ final authController =
 class AuthController extends AsyncNotifier<User?> {
   Future<void> login(String email, String password) async {
     try {
-      await Future.delayed(const Duration(seconds: 2));
-      state = AsyncData(User(name: 'John Doe', email: email));
+      final user =
+          await ref.read(remoteRepositoryProvider).login(email, password);
+      state = AsyncData(user);
     } catch (e) {
       log(e.toString());
     }
@@ -20,7 +22,7 @@ class AuthController extends AsyncNotifier<User?> {
 
   Future<void> logout() async {
     try {
-      await Future.delayed(const Duration(seconds: 2));
+      await ref.read(remoteRepositoryProvider).logout();
       state = const AsyncData(null);
     } catch (e) {
       log(e.toString());
